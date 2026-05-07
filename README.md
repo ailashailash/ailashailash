@@ -1,11 +1,33 @@
-- 👋 Hi, I’m ailash
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm Ailash 👋
+### Cyber Security Specialist | AI Engineer | Ethical Hacker
 
-Apt update
-Apt upgrade
-PKG update
-PKG upgrade
-PKG install git
+Professional cybersecurity researcher with expertise in network defense, threat management, and endpoint security. Certified by Cisco Networking Academy.
+
+---
+
+### 🛡️ Professional Certifications (Cisco)
+I have successfully completed the following specialized certifications:
+
+*   **Ethical Hacker** 🛡️
+*   **Cyber Threat Management** 🔍
+*   **Network Defense** 🌐
+*   **Endpoint Security** 💻
+*   **Introduction to Cybersecurity** 🔒
+*   **Emergency Preparedness and Response** 🚑
+
+---
+
+### 🚀 Technical Skills
+*   **Offensive Security:** Ethical Hacking, Penetration Testing, Vulnerability Assessment.
+*   **Defensive Security:** Network Hardening, Threat Intelligence, SIEM.
+*   **Technology:** AI-Driven Security, Python, Linux Security.
+
+---
+
+### 🌐 Connect with me
+*   **Website:** https://ailashailash.github.io/ailash-website/
+*   **Location:** Nawalapitiya, Sri Lanka 🇱🇰
+
+---
+
+"Securing the digital world, one byte at a time."

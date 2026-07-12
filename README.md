@@ -24,6 +24,25 @@ I have successfully completed the following specialized certifications:
 
 ---
 
+ ### 🚀 Featured Projects
+🤖 AilashGPT
+
+My AI assistant project focused on intelligent interaction and AI experimentation.
+
+🔗 **Live Demo:**
+https://ailashailash.github.io/AilashGPT/
+
+---
+
+### 🛡️ AILASH - THE GUARDIAN OF VISION
+
+A futuristic AI and cybersecurity vision project combining technology, creativity, and digital innovation.
+
+🔗 **Live Demo:**
+https://ailashailash.github.io/-AILASH-THE-GUARDIAN-OF-VISION/
+
+---
+
 ### 🌐 Connect with me
 *   **Website:** https://ailashailash.github.io/ailash-website/
 *   **Location:** Nawalapitiya, Sri Lanka 🇱🇰

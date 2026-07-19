@@ -141,23 +141,49 @@ Interests:
   ```
 📊 GitHub Statistics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ailashailash&show_icons=true&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ailashailash&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ailashailash&theme=tokyo-night"/> </p>
-🏆 GitHub Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ailashailash&theme=tokyonight&no-frame=true&row=2"/> </p>
-🌐 Connect With Me
-<p align="center"> <a href="https://github.com/ailashailash"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/> </a> <a href="https://www.linkedin.com/in/ailash-ailash-43538a239/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/> </a> <a href="https://ailashailash.github.io/ailash-website/"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome"/> </a> <a href="https://www.youtube.com/@ailashthebesthacker"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/> </a> </p>
 
-📱 Telegram
-https://t.me/AILASHacker
-
-📷 Instagram
-https://instagram.com/ailash_the_best
-
-📘 Facebook
-https://web.facebook.com/ailash.ailash.3
-
-📧 Email
-ailashailash09@gmail.com
 ---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/ailashailash">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ailash-ailash-43538a239/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://ailashailash.github.io/ailash-website/">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@ailashthebesthacker">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://t.me/AILASHacker">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/ailash_the_best">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://web.facebook.com/ailash.ailash.3">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="mailto:ailashailash09@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
 ## 🎯 Future Goals
 
 - 🚀 Build advanced AI systems

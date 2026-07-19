@@ -1,52 +1,158 @@
-# Hi there, I'm Ailash 👋
-### Cyber Security Specialist | AI Engineer | Ethical Hacker
+# 👋 Hi, I'm Ailash
 
-Professional cybersecurity researcher with expertise in network defense, threat management, and endpoint security. Certified by Cisco Networking Academy.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cyber+Security+Specialist;AI+Engineer;Ethical+Hacker;Linux+Enthusiast;Future+Technology+Builder" />
+</p>
 
----
-
-### 🛡️ Professional Certifications (Cisco)
-I have successfully completed the following specialized certifications:
-
-*   **Ethical Hacker** 🛡️
-*   **Cyber Threat Management** 🔍
-*   **Network Defense** 🌐
-*   **Endpoint Security** 💻
-*   **Introduction to Cybersecurity** 🔒
-*   **Emergency Preparedness and Response** 🚑
+<p align="center">
+  <b>"Securing the digital world, one byte at a time."</b>
+</p>
 
 ---
 
-### 🚀 Technical Skills
-*   **Offensive Security:** Ethical Hacking, Penetration Testing, Vulnerability Assessment.
-*   **Defensive Security:** Network Hardening, Threat Intelligence, SIEM.
-*   **Technology:** AI-Driven Security, Python, Linux Security.
+## 🧑‍💻 About Me
+
+I'm **Ailash** 👋
+A passionate **Cyber Security Specialist, AI Engineer, and Ethical Hacker** from Sri Lanka 🇱🇰.
+
+I focus on:
+
+* 🛡️ Cybersecurity Research
+* 🤖 Artificial Intelligence Development
+* 🐧 Linux Security & Automation
+* 🌐 Network Defense
+* 🔐 Ethical Hacking & Penetration Testing
+* 🚀 Building futuristic technology projects
 
 ---
 
- ### 🚀 Featured Projects
-🤖 AilashGPT
+# 🛡️ Cybersecurity Certifications (Cisco Networking Academy)
 
-My AI assistant project focused on intelligent interaction and AI experimentation.
+I have completed professional cybersecurity training including:
 
-🔗 **Live Demo:**
+| Certification                          | Area                  |
+| -------------------------------------- | --------------------- |
+| 🛡️ Ethical Hacker                     | Offensive Security    |
+| 🔍 Cyber Threat Management             | Threat Intelligence   |
+| 🌐 Network Defense                     | Network Protection    |
+| 💻 Endpoint Security                   | Device Security       |
+| 🔒 Introduction to Cybersecurity       | Security Fundamentals |
+| 🚑 Emergency Preparedness and Response | Incident Response     |
+
+---
+
+# 🚀 Technical Skills
+
+## 🔴 Offensive Security
+
+* Ethical Hacking
+* Penetration Testing
+* Vulnerability Assessment
+* Security Testing
+* Reconnaissance
+
+## 🔵 Defensive Security
+
+* Network Hardening
+* Threat Intelligence
+* SIEM Concepts
+* Endpoint Protection
+* Security Monitoring
+
+## 💻 Programming & Technology
+
+* Python 🐍
+* Linux 🐧
+* Bash Scripting
+* AI Development
+* Machine Learning Concepts
+* Cybersecurity Automation
+
+---
+
+# 🤖 Featured Projects
+
+## 🧠 AilashGPT
+
+An AI assistant project focused on intelligent interaction, automation, and AI experimentation.
+
+🔗 Live Demo:
 https://ailashailash.github.io/AilashGPT/
 
 ---
 
-### 🛡️ AILASH - THE GUARDIAN OF VISION
+## 🛡️ AILASH - THE GUARDIAN OF VISION
 
-A futuristic AI and cybersecurity vision project combining technology, creativity, and digital innovation.
+A futuristic AI and cybersecurity vision project combining:
 
-🔗 **Live Demo:**
+* Artificial Intelligence
+* Digital Security
+* Innovation
+* Future Technology Concepts
+
+🔗 Live Demo:
 https://ailashailash.github.io/-AILASH-THE-GUARDIAN-OF-VISION/
 
 ---
 
-### 🌐 Connect with me
-*   **Website:** https://ailashailash.github.io/ailash-website/
-*   **Location:** Nawalapitiya, Sri Lanka 🇱🇰
+# 🖥️ My Environment
+
+```text
+OS        : Kali Linux
+Focus     : Cyber Security + AI
+Languages : Python, Bash
+Interests : AI, Hacking, Linux, Automation
+```
 
 ---
 
-"Securing the digital world, one byte at a time."
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ailashailash&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ailashailash&theme=tokyonight"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+🌍 Website
+https://ailashailash.github.io/ailash-website/
+
+💻 GitHub
+https://github.com/ailashailash
+
+📺 YouTube
+https://www.youtube.com/@ailashthebesthacker
+
+📱 Telegram
+https://t.me/AILASHacker
+
+📷 Instagram
+https://instagram.com/ailash_the_best
+
+📘 Facebook
+https://web.facebook.com/ailash.ailash.3
+
+📧 Email
+[ailashailash09@gmail.com](mailto:ailashailash09@gmail.com)
+
+---
+
+# 🎯 Future Goals
+
+🚀 Build advanced AI systems
+🛡️ Develop cybersecurity tools
+🤖 Create intelligent automation platforms
+🌐 Contribute to open-source projects
+🔬 Explore next-generation technology
+
+---
+
+<p align="center">
+  <b>⚡ Building the future with AI & Cybersecurity ⚡</b>
+</p>

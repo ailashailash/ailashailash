@@ -184,6 +184,15 @@ Interests:
 
 ---
 
+## 🪪 Official Profiles & Identifiers
+
+| Platform | Profile |
+|---|---|
+| **Wikidata ID** | [Q140680761](https://www.wikidata.org/wiki/Q140680761) |
+| **Wikipedia User Page** | [User:Ailash](https://en.wikipedia.org/wiki/User:Ailash) |
+| **X (Twitter)** | [@ailashailash09](https://x.com/ailashailash09) |
+---
+
 ## 🎯 Future Goals
 
 - 🚀 Build advanced AI systems
